@@ -4,6 +4,7 @@ title: Kako Lako Organizovati Pomoć Volontera za Školski Flohmarkt
 subtitle: Zaboravite na komplikovane tabele- Brza koordinacija školskih događaja
 tags: [organizacija događaja, školski flohmarkt]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite Da Jurite Volontere- Brza i Laka Koordinacija Pomoći za Školski Flohmarkt

@@ -4,6 +4,7 @@ title: Prestanite da jurite roditelje- Organizujte školsku zabavu bez stresa
 subtitle: Kako da dobijete 90% odgovora za roditeljske sastanke i školske događaje
 tags: [organizacija događaja, roditeljski sastanak]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite da jurite roditelje- Organizujte školsku zabavu bez stresa

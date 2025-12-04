@@ -4,6 +4,7 @@ title: Organizujte Savršeno Veče- Teme i Diskusije bez Muke
 subtitle: Kako da gosti potvrde dolazak na vaš tematski događaj u 3 klika
 tags: [organizacija događaja, tematsko veče]
 author: ijoin.app
+language: sr
 ---
 # Organizujte Savršeno Veče: Teme i Diskusije bez Muke
 

@@ -4,6 +4,7 @@ title: Kraj Muke sa Evidencijom Sportskih Timova
 subtitle: Kako treneri i menadžeri tima rešavaju prisustvo bez ijednog poziva
 tags: [organizacija sportskih događaja, evidencija prisustva]
 author: ijoin.app
+language: sr
 ---
 # Kraj Muke sa Evidencijom Sportskih Timova
 

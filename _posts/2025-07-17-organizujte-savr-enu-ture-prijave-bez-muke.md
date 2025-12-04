@@ -4,6 +4,7 @@ title: Organizujte Savršenu Ture- Prijave Bez Muke
 subtitle: Kako ijoin.app rešava haos pri organizaciji pešačenja i biciklizma
 tags: [organizacija ture, prijave događaji]
 author: ijoin.app
+language: sr
 ---
 # Organizacija Ture- Kako ijoin.app Pretvara Haos u Savršenu Pripremu
 

@@ -4,6 +4,7 @@ title: Organizujte Kreativne Radionice bez Registracije- Povećajte Broj Učesni
 subtitle: Kako ijoin.app rešava haos sa prijavama i maksimizira odziv na događajima
 tags: [organizacija događaja, prijava bez registracije]
 author: ijoin.app
+language: sr
 ---
 
 # Organizacija Kreativnih Radionica i Događaja- Maksimalan Odziv Uz Minimalan Trud

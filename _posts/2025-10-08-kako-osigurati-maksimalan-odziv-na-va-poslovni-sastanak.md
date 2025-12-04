@@ -4,6 +4,7 @@ title: Kako Osigurati Maksimalan Odziv na Vaš Poslovni Sastanak
 subtitle: Organizujte Stammtisch za Lokalne Preduzetnike Bez Muke i E-Mail Haosa
 tags: [organizacija događaja, poslovni sastanci]
 author: ijoin.app
+language: sr
 ---
 # Prestanite Da Jurite Odgovore - Elegantna Organizacija Poslovnih Sastanaka
 

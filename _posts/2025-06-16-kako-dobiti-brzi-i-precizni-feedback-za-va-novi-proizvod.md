@@ -4,6 +4,7 @@ title: Kako dobiti brzi i precizni feedback za vaš novi proizvod
 subtitle: Organizujte RSVP sesije bez muke - Nema registracije, nema komplikacija
 tags: [organizacija događaja, prikupljanje feedbacka]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite da jurite za feedbackom - Brze i efikasne sesije za testiranje proizvoda

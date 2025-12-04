@@ -4,6 +4,7 @@ title: Kako Organizovati Spontani Co-Working Bez Mučenja sa Odgovorima
 subtitle: Maksimalna odzivnost za vaša fleksibilna okupljanja i sastanke
 tags: [co-working, organizacija događaja]
 author: ijoin.app
+language: sr
 ---
 # Prestanite da Ganjate Odgovore - Brzo Organizujte Fleksibilna Co-Working Okupljanja
 

@@ -4,6 +4,7 @@ title: Kako Osigurati Maksimalan Odziv na Alumni Okupljanjima
 subtitle: Organizujte Stammtisch bez muke i dugih registracija
 tags: [alumni okupljanje, organizacija događaja]
 author: ijoin.app
+language: sr
 ---
 # Prestanite da Jurite Odgovore za Vaš Mesečni Stammtisch
 

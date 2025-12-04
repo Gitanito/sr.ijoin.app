@@ -4,6 +4,7 @@ title: Prestanite da jurite goste - Organizujte događaje bez muke
 subtitle: Kako do 100% potvrde dolaska za vaše sportsko, klupsko ili privatno okupljanje
 tags: [organizacija događaja, potvrda dolaska]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite da jurite goste - Organizujte događaje bez muke

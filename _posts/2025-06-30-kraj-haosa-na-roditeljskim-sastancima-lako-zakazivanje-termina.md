@@ -4,6 +4,7 @@ title: Kraj haosa na roditeljskim sastancima - Lako zakazivanje termina
 subtitle: Kako digitalno organizovati roditeljske sastanke bez ijednog poziva ili registracije
 tags: [roditeljski sastanci, zakazivanje termina]
 author: ijoin.app
+language: sr
 ---
 
 # Kraj haosa na roditeljskim sastancima - Lako zakazivanje termina

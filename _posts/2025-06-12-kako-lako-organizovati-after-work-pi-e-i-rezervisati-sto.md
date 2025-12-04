@@ -4,6 +4,7 @@ title: Kako Lako Organizovati After-Work Piće i Rezervisati Sto
 subtitle: Prestanite juriti kolege - dobijte potvrdu dolaska za 30 sekundi
 tags: [organizacija događaja, timski događaji]
 author: ijoin.app
+language: sr
 ---
 
 # Lako do Potvrde Dolaska za Neformalna Druženja

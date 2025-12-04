@@ -4,6 +4,7 @@ title: Kako Organizovati Savršeni Pre-Party Bez Muke
 subtitle: Zaboravite na beskonačne grupne chatove- Lako upravljanje listom gostiju za svaki događaj
 tags: [organizacija događaja, pozivnice bez registracije]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite da jurite goste- Brza potvrda dolaska za vaš koncertni Pre-Party

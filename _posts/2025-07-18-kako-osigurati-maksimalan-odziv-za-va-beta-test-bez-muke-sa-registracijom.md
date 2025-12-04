@@ -4,6 +4,7 @@ title: Kako Osigurati Maksimalan Odziv za Vaš Beta Test - Bez Muke sa Registrac
 subtitle: Lako organizujte pozive za testiranje proizvoda i dobijte trenutne povratne informacije.
 tags: [organizacija događaja, beta testiranje]
 author: ijoin.app
+language: sr
 ---
 
 # Lako Pozovite Testore i Dobijte Odgovor - Rešenje za Efikasnu Organizaciju Beta Testova

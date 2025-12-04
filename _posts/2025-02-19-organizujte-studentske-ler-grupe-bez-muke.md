@@ -4,6 +4,7 @@ title: Organizujte Studentske Ler Grupe Bez Muke
 subtitle: Kako do savršene organizacije učenja za ispit- bez registracije i komplikacija
 tags: [organizacija događaja, studentske ler grupe]
 author: ijoin.app
+language: sr
 ---
 # Organizujte Studentske Ler Grupe Bez Muke
 

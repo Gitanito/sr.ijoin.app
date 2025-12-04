@@ -4,6 +4,7 @@ title: Organizujte Spontana Okupljanja Bez Muke - Ko dolazi na piće večeras
 subtitle: Kako dobiti brze odgovore od prijatelja za Last-Minute izlazak
 tags: [organizacija događaja, spontana okupljanja]
 author: ijoin.app
+language: sr
 ---
 
 # Ko dolazi na piće večeras? Brzo Rešavanje Last-Minute Izlazaka

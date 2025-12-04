@@ -4,6 +4,7 @@ title: Organizujte Akciju Pomoći u Komšiluku Bez Muke
 subtitle: Povežite Komšije za Spontane Akcije - Brzo, Besplatno i Bez Registracije
 tags: [organizacija događaja, komšijska pomoć]
 author: ijoin.app
+language: sr
 ---
 
 # Kako Lako Okupiti Komšiluk za Spontanu Akciju Pomoći

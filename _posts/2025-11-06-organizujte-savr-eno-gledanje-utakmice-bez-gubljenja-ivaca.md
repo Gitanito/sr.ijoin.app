@@ -4,6 +4,7 @@ title: Organizujte Savršeno Gledanje Utakmice bez Gubljenja Živaca
 subtitle: Kako osigurati da svi znaju gde i kada počinje proslava sporta
 tags: [organizacija događaja, sportski događaji]
 author: ijoin.app
+language: sr
 ---
 
 # Organizujte Savršeno Gledanje Utakmice bez Gubljenja Živaca

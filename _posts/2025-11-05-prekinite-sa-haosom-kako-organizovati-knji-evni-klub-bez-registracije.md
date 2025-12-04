@@ -4,6 +4,7 @@ title: Prekinite sa haosom- Kako organizovati književni klub bez registracije
 subtitle: Maksimalna odzivnost za vaše nedeljne sastanke - bez ikakvih komplikacija
 tags: [organizacija događaja, književni klub]
 author: ijoin.app
+language: sr
 ---
 # Prekinite sa haosom - Kako organizovati književni klub bez registracije
 

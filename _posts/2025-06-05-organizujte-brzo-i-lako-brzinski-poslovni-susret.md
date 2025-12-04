@@ -4,6 +4,7 @@ title: Organizujte Brzo i Lako Brzinski Poslovni Susret
 subtitle: Kako do savršenog Meetupa bez muke sa prijavama i registracijom
 tags: [organizacija događaja, poslovno umrežavanje]
 author: ijoin.app
+language: sr
 ---
 # Organizujte Brzo i Lako Brzinski Poslovni Susret
 

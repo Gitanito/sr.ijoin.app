@@ -4,6 +4,7 @@ title: Prestanite da jurite prijave za kurseve- Rešenje je u jednom linku
 subtitle: Kako da organizujete prijavu za Töpferkurs bez ijednog mejla ili registracije
 tags: [organizacija događaja, online prijave]
 author: ijoin.app
+language: sr
 ---
 
 # Organizacija Töpferkurs Prijave - Maksimalan odziv uz minimalan napor

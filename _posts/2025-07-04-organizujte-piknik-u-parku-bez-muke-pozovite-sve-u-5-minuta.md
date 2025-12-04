@@ -4,6 +4,7 @@ title: Organizujte Piknik u Parku bez Muke- Pozovite Sve u 5 Minuta
 subtitle: Kraj Frustraciji sa Grupnim Dopisivanjem- Maksimalna Izlaznost Za Vaše Spontane Događaje
 tags: [organizacija događaja, pozivnice]
 author: ijoin.app
+language: sr
 ---
 
 # Organizujte Piknik u Parku bez Muke: Pozovite Sve u 5 Minuta

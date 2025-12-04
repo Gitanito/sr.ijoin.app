@@ -4,6 +4,7 @@ title: Kako Organizovati Ekskluzivnu Večeru Bez Muke sa Prijavama
 subtitle: Tajna Besplatnog Alata za Pop-up Događaje i Privatne Proslave
 tags: [organizacija događaja, pop-up večera]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite da Ganjate Potvrde – Dovedite VIP Goste na Vaš Pop-up Događaj

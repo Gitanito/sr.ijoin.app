@@ -4,6 +4,7 @@ title: Kraj Muke Sa Organizacijom - Prijave Za Radionice Bez Registracije
 subtitle: Kako maksimizirati učešće na lokalnim Skill-Share događajima i radionicama
 tags: [organizacija događaja, Skill-Share]
 author: ijoin.app
+language: sr
 ---
 
 # Prestanite Da Jurite Prijave - Neka Vam Gosti Sami Dođu Na Radionicu

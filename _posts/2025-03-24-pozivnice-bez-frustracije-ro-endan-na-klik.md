@@ -4,6 +4,7 @@ title: Pozivnice bez Frustracije - Rođendan na Klik
 subtitle: Maksimalna odazivnost za proslave- nema registracije, nema muke
 tags: [organizacija događaja, rođendanske proslave]
 author: ijoin.app
+language: sr
 ---
 # Pozivnice bez Frustracije - Rođendan na Klik
 

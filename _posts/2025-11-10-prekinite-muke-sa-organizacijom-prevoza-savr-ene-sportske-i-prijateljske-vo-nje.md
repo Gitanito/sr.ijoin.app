@@ -4,6 +4,7 @@ title: Prekinite Muke sa Organizacijom Prevoza - Savršene Sportske i Prijateljs
 subtitle: Kako da bez ijednog poziva ili poruke dogovorite sve vaše zajedničke vožnje
 tags: [organizacija događaja, deljenje prevoza]
 author: ijoin.app
+language: sr
 ---
 # Prestanite da jurite ljude - Organizacija Vožnji za Sport i Druženja je Upravo Postala Laka
 

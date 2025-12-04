@@ -4,6 +4,7 @@ title: Organizujte Prevoz za Izlet Bez Beskrajnih Emailova
 subtitle: Maksimalna efikasnost u organizaciji dešavanja i prevoza
 tags: [organizacija događaja, deljenje prevoza]
 author: ijoin.app
+language: sr
 ---
 # Prestanite sa Gupama Poruka - Organizacija Prevoza za Izlete je Upravo Postala Laka
 

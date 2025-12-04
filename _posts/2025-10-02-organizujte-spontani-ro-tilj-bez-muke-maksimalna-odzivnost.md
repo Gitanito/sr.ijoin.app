@@ -4,6 +4,7 @@ title: Organizujte Spontani Roštilj Bez Muke - Maksimalna Odzivnost
 subtitle: Zaboravite beskrajne WhatsApp poruke - kako dovesti sve goste na jedno mesto
 tags: [organizacija događaja, pozivanje gostiju]
 author: ijoin.app
+language: sr
 ---
 # Organizujte Spontani Roštilj Bez Muke - Maksimalna Odzivnost
 

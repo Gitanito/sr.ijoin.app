@@ -4,6 +4,7 @@ title: Organizujte Savršenu Komšijsku Zabavu Bez Muke sa Listama
 subtitle: Kako ijoin.app pojednostavljuje koordinaciju događaja u zajednici
 tags: [organizacija događaja, komšijska zabava]
 author: ijoin.app
+language: sr
 ---
 # Prestanite da Jurite Komšije za Odgovore - Jednostavna Organizacija Događaja u Zajednici
 

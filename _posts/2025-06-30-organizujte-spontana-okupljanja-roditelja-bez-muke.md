@@ -4,6 +4,7 @@ title: Organizujte Spontana Okupljanja Roditelja Bez Muke
 subtitle: Kraj haosu u Votsapu- Zakažite igru na igralištu u 3 klika
 tags: [organizacija događaja, roditeljstvo]
 author: ijoin.app
+language: sr
 ---
 
 # Organizacija Igrališta na Dugme- Lako Planiranje Roditeljskih Druženja
